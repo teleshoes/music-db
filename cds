@@ -66,7 +66,7 @@ This Way to the Egress|Egress|SIGNED|ART
 This Way to the Egress|Mighty Seed
 Todd Isler|Soul Drums
 Veil|Xe.|humanwhine
-Vermillion Lies|Separated by Birth|2nd editionb
+Vermillion Lies|Separated by Birth|2nd edition
 Vermillion Lies|What's in the Box?
 Voltaire|Aureli|SIGNED
 Voltaire|Bitrektual|SIGNED
