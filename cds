@@ -37,7 +37,7 @@ Gypsy Nomads|Happy Madness|SIGNED
 Jaggery|Upon a Penumbra
 Jason Trachtenburg|Revolutions Per Minute
 Kath Bloom|Thin Thin Line
-Lakkin Grimm|Live from Another Planet
+Larkin Grimm|Live from Another Planet
 *Mayanot 81
 Michael Zuko|Miles from a Kiss
 Miles Dethmuffen|Clutter
