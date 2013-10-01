@@ -65,7 +65,7 @@ This Way to the Egress|Ballads and Titles to Slaughter Your Spouse By
 This Way to the Egress|Egress|SIGNED|ART
 This Way to the Egress|Mighty Seed
 Todd Isler|Soul Drums
-Veil|Xe.|humanwhine
+Veil|Xe.|humanwine
 Vermillion Lies|Separated by Birth|2nd edition
 Vermillion Lies|What's in the Box?
 Voltaire|Aureli|SIGNED
