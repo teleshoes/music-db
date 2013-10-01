@@ -8,7 +8,6 @@ Blind Guardian|Nightfall in Middle Earth|bootleg
 Blind Guardian|The Forgotten Tales|bootleg
 Bottom of the Well|Bottom of the Well
 Box Five|Leave the Earth Behind
-Brave|Original Score
 Cecile Corbel|Roses Songbook Vol 4
 Cecile Corbel|Songbook 1
 Christmas Strings and Harp
@@ -82,6 +81,7 @@ o'death|outside
 
 
 
+Brave|Original Score
 Highlights from The Phantom of the Opera|Original Cast Recording
 The Gershwin's Porgy and Bess|New Broadway Cast Recording
 Toy Story 2|Soundtrack
