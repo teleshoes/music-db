@@ -67,7 +67,7 @@ Todd Isler|Soul Drums
 Veil|Xe.|humanwine
 Vermillion Lies|Separated by Birth|2nd edition
 Vermillion Lies|What's in the Box?
-Voltaire|Aureli|SIGNED
+Voltaire|Riding a Black Unicorn|SIGNED
 Voltaire|Bitrektual|SIGNED
 Voltaire|To the Bottom of the Sea|SIGNED
 *Walter Sickert and the Army of Broken Toys|28 Seeds
