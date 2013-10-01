@@ -4,8 +4,8 @@ Abney Park|Lost Horizons|SIGNED
 *Ad Frank|Your Secrets Are Mine Now|SIGNED|ART|SETLIST
 *Alia Lorae|The Mad and the Beautiful
 *Amanda Palmer|Theatre Is Evil
-Blind Guardian|Nightfall in Middle Earth|bootleg
-Blind Guardian|The Forgotten Tales|bootleg
+*Blind Guardian|Nightfall in Middle Earth|bootleg
+*Blind Guardian|The Forgotten Tales|bootleg
 *Bottom of the Well|Bottom of the Well
 *Box Five|Leave the Earth Behind
 *Cecile Corbel|Roses Songbook Vol 4
