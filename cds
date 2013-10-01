@@ -1,84 +1,84 @@
-Veil|Xe.|humanwhine
-Save Ferris|modified
-Plushgun|me.me.|SIGNED
-Plushgun|Pins and Panzers|SIGNED
-Regina Spektor|Soviet Kitsch
-Emperor Norton's Stationary Marching Band|Disco Dischordia
-Emperor Norton's Stationary Marching Band|Wandering Shamelessly
-Emperor Norton's Stationary Marching Band|Reign of Revelry
-Frency and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
-Ottmar Liebert|Christmas Santa Fe
-o'death|outside
-Molly Zenobia|November Antique|SIGNED|ART
-Vermillion Lies|Separated by Birth|2nd editionb
-The World Inferno Friendship Society|red-eyed soul
-Blind Guardian|Nightfall in Middle Earth|bootleg
-Blind Guardian|The Forgotten Tales|bootleg
-Crystal Bright and the Silver Hands|Crystal Bright and the Silver Hands
-Crystal Bright and the Silver Hands|Muses and Bones
-Jaggery|Private Violence
-Jaggery|Upon a Penumbra
-Walter Sickert and the Army of Broken Toys|28 Seeds
-Walter Sickert and the Army of Broken Toys|Steam Ship Killers
-Walter Sickert and the Army of Broken Toys|Casualty Menageria|SIGNED
-Ad Frank|The World's Best Ex-Boyfriend
-Todd Isler|Soul Drums
-Michael Zuko|Miles from a Kiss
 Abney Park|Aether Shanties|SIGNED
 Abney Park|Lost Horizons|SIGNED
+Ad Frank|The World's Best Ex-Boyfriend
+Ad Frank|Your Secrets Are Mine Now|SIGNED|ART|SETLIST
+Alia Lorae|The Mad and the Beautiful
+Amanda Palmer|Theatre Is Evil
+Blind Guardian|Nightfall in Middle Earth|bootleg
+Blind Guardian|The Forgotten Tales|bootleg
+Bottom of the Well|Bottom of the Well
+Box Five|Leave the Earth Behind
+Brave|Original Score
+Cecile Corbel|Roses Songbook Vol 4
+Cecile Corbel|Songbook 1
+Christmas Strings and Harp
+Cirque Du Soleil|Alegria
+Copal|Into the Shadow Garden
+Corrientes|Corrientes en Espanol
+Crystal Bright and the Silver Hands|Crystal Bright and the Silver Hands
+Crystal Bright and the Silver Hands|Muses and Bones
+Dethklok|Death Album II
+Eco Del Sur|Latin American Roots
+Edith Piaf|La Vie en Rose
+Ember Schrag|A Cruel Cruel Woman
+Emperor Norton's Stationary Marching Band|Disco Dischordia
+Emperor Norton's Stationary Marching Band|Reign of Revelry
+Emperor Norton's Stationary Marching Band|Wandering Shamelessly
+Evelyn Evelyn|Evelyn Evelyn
+Exit Clov|Exit Clov
+Exit Clov|Respond Respond
+Foolish Ida|Book II|SIGNED|ART
+Frency and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
+Goli|Goli|SIGNED|ART
+Gypsy Nomas|Gypsy Madness|SIGNED
+Gypsy Nomas|Happy Madness
+Hellblinki|Oratory|SIGNED
+Hellblinki|These Bubbles Come From Ants|SIGNED
+Horloge Grand-Pere|Du temps pour emporter
+Jaggery|Private Violence
+Jaggery|Upon a Penumbra
 Jason Trachtenburg|Revolutions Per Minute
 Kath Bloom|Thin Thin Line
-Zoe Keating|Into the Trees
-Eco Del Sur|Latin American Roots
-Zoe Keating|One Cello x 16: Natoma
+Lakkin Grimm|Live from Another Planet
+Mayanot 81
+Michael Zuko|Miles from a Kiss
+Miles Dethmuffen|Clutter
+Molly Zenobia|November Antique|SIGNED|ART
+Molly Zenobia|Wind Chains|ART
+Neko Case|Fox Confessor Brings the Flood
+Neko Case|Middle Cyclone
+Nicole Atkins|Neptune City
+Ottmar Liebert|Christmas Santa Fe
+Paul and Storm|Gumbopants
+Permafrost|In Harm's Way
+Petaluma Vale|The Long Way Out|SIGNED
+Plushgun|Pins and Panzers|SIGNED
+Plushgun|me.me.|SIGNED
+Rasputina|Sister Kinderhook|SIGNED
+Regina Spektor|Soviet Kitsch
+Ruby Perrone|The Language of Spirits
+Sarah Rabdau and Self-Employed Assassins|Sarah Rabdau and Self-Employed Assassins|SIGNED
+Save Ferris|modified
+Sita Sings the Blues|Music from the Motion Picture
+Supercute|Supercute
+The World Inferno Friendship Society|red-eyed soul
 This Way to the Egress|Ballads and Titles to Slaughter Your Spouse By
 This Way to the Egress|Egress|SIGNED|ART
 This Way to the Egress|Mighty Seed
-Gypsy Nomas|Gypsy Madness|SIGNED
-Nicole Atkins|Neptune City
-Rasputina|Sister Kinderhook|SIGNED
-Petaluma Vale|The Long Way Out|SIGNED
-Goli|Goli|SIGNED|ART
-Foolish Ida|Book II|SIGNED|ART
-Sita Sings the Blues|Music from the Motion Picture
-Cirque Du Soleil|Alegria
-Sarah Rabdau and Self-Employed Assassins|Sarah Rabdau and Self-Employed Assassins|SIGNED
-Dethklok|Death Album II
-Hellblinki|Oratory|SIGNED
-Hellblinki|These Bubbles Come From Ants|SIGNED
-Brave|Original Score
-Voltaire|To the Bottom of the Sea|SIGNED
+Todd Isler|Soul Drums
+Veil|Xe.|humanwhine
+Vermillion Lies|Separated by Birth|2nd editionb
+Vermillion Lies|What's in the Box?
 Voltaire|Aureli|SIGNED
 Voltaire|Bitrektual|SIGNED
-Lakkin Grimm|Live from Another Planet
-Copal|Into the Shadow Garden
-Ad Frank|Your Secrets Are Mine Now|SIGNED|ART|SETLIST
-Neko Case|Middle Cyclone
-Neko Case|Fox Confessor Brings the Flood
-Ember Schrag|A Cruel Cruel Woman
+Voltaire|To the Bottom of the Sea|SIGNED
+Walter Sickert and the Army of Broken Toys|28 Seeds
+Walter Sickert and the Army of Broken Toys|Casualty Menageria|SIGNED
+Walter Sickert and the Army of Broken Toys|Steam Ship Killers
 Wazozo|Newton Circus
-Mayanot 81
-Vermillion Lies|What's in the Box?
-Evelyn Evelyn|Evelyn Evelyn
-Horloge Grand-Pere|Du temps pour emporter
-Supercute|Supercute
-Paul and Storm|Gumbopants
-Corrientes|Corrientes en Espanol
-Christmas Strings and Harp
-Edith Piaf|La Vie en Rose
-Alia Lorae|The Mad and the Beautiful
-Molly Zenobia|Wind Chains|ART
-Gypsy Nomas|Happy Madness
-Amanda Palmer|Theatre Is Evil
-Exit Clov|Respond Respond
-Exit Clov|Exit Clov
-Bottom of the Well|Bottom of the Well
-Miles Dethmuffen|Clutter
-Permafrost|In Harm's Way
-Cecile Corbel|Roses Songbook Vol 4
-Cecile Corbel|Songbook 1
-Ruby Perrone|The Language of Spirits
-Box Five|Leave the Earth Behind
+Zoe Keating|Into the Trees
+Zoe Keating|One Cello x 16: Natoma
+o'death|outside
 
 
 
