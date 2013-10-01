@@ -81,7 +81,7 @@ o'death|outside
 
 
 *Brave|Original Score
-Highlights from The Phantom of the Opera|Original Cast Recording
+*Highlights from The Phantom of the Opera|Original Cast Recording
 *The Gershwin's Porgy and Bess|New Broadway Cast Recording
 *Toy Story 2|Soundtrack
 *James and the Giant Peach|Soundtrack
