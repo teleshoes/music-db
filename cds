@@ -24,7 +24,7 @@ Eco Del Sur|Latin American Roots
 *Emperor Norton's Stationary Marching Band|Reign of Revelry
 Emperor Norton's Stationary Marching Band|Wandering Shamelessly
 *Evelyn Evelyn|Evelyn Evelyn
-Exit Clov|Exit Clov
+Exit Clov|Jolly Roget Sessions
 Exit Clov|Respond Respond
 *Foolish Ida|Book II|SIGNED|ART
 *Frency and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
