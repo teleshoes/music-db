@@ -76,7 +76,7 @@ Walter Sickert and the Army of Broken Toys|Steam Ship Killers
 Wazozo|Newton Circus
 *Zoe Keating|Into the Trees
 *Zoe Keating|One Cello x 16: Natoma
-o'death|outside
+*o'death|outside
 
 
 
