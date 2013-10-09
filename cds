@@ -13,18 +13,18 @@ Abney Park|Lost Horizons|SIGNED
 *Christmas Strings and Harp
 *Cirque Du Soleil|Alegria
 Copal|Into the Shadow Garden
-Corrientes|Corrientes en Espanol
+*Corrientes|Corrientes en Espanol
 *Crystal Bright and the Silver Hands|Crystal Bright and the Silver Hands
 *Crystal Bright and the Silver Hands|Muses and Bones
 Dethklok|Death Album II
-Eco Del Sur|Latin American Roots
+*Eco Del Sur|Latin American Roots
 *Edith Piaf|La Vie en Rose
 *Ember Schrag|A Cruel Cruel Woman
 *Emperor Norton's Stationary Marching Band|Disco Dischordia
 *Emperor Norton's Stationary Marching Band|Reign of Revelry
-Emperor Norton's Stationary Marching Band|Wandering Shamelessly
+*Emperor Norton's Stationary Marching Band|Wandering Shamelessly
 *Evelyn Evelyn|Evelyn Evelyn
-Exit Clov|Jolly Roget Sessions
+*Exit Clov|Jolly Roget Sessions
 Exit Clov|Respond Respond
 *Foolish Ida|Book II|SIGNED|ART
 *Frency and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
@@ -37,10 +37,10 @@ Gypsy Nomads|Happy Madness|SIGNED
 Jaggery|Upon a Penumbra
 Jason Trachtenburg|Revolutions Per Minute
 Kath Bloom|Thin Thin Line
-Larkin Grimm|Live from Another Planet
+*Larkin Grimm|Live from Another Planet
 *Mayanot 81
 Michael Zuko|Miles from a Kiss
-Miles Dethmuffen|Clutter
+*Miles Dethmuffen|Clutter
 *Molly Zenobia|November Antique|SIGNED|ART
 *Molly Zenobia|Wind Chains|ART
 *Neko Case|Fox Confessor Brings the Flood
@@ -48,7 +48,7 @@ Miles Dethmuffen|Clutter
 *Nicole Atkins|Neptune City
 *Ottmar Liebert|Christmas Santa Fe
 *Paul and Storm|Gumbopants
-Permafrost|In Harm's Way
+*Permafrost|In Harm's Way
 *Petaluma Vale|The Long Way Out|SIGNED
 *Plushgun|Pins and Panzers|SIGNED
 *Plushgun|me.me.|SIGNED
@@ -58,10 +58,10 @@ Ruby Perrone|The Language of Spirits
 *Sarah Rabdau and Self-Employed Assassins|Sarah Rabdau and Self-Employed Assassins|SIGNED
 *Save Ferris|modified
 *Sita Sings the Blues|Music from the Motion Picture
-Supercute|Supercute
+*Supercute|Supercute
 *The World Inferno Friendship Society|red-eyed soul
-This Way to the Egress|Ballads and Titles to Slaughter Your Spouse By
-This Way to the Egress|Egress|SIGNED|ART
+*This Way to the Egress|Ballads and Titles to Slaughter Your Spouse By
+*This Way to the Egress|Egress|SIGNED|ART
 *This Way to the Egress|Mighty Seed
 Todd Isler|Soul Drums
 Veil|Xe.|humanwine
@@ -86,4 +86,4 @@ Wazozo|Newton Circus
 *Toy Story 2|Soundtrack
 *James and the Giant Peach|Soundtrack
 *The Hobbit An Unexpected Journey|Original Motion Picture Soundtrack
-The Legend of Zelda Ocarina of Time 3D|Official Soundtrack
+*The Legend of Zelda Ocarina of Time 3D|Official Soundtrack
