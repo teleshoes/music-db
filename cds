@@ -17,6 +17,7 @@ Copal|Into the Shadow Garden
 *Crystal Bright and the Silver Hands|Crystal Bright and the Silver Hands
 *Crystal Bright and the Silver Hands|Muses and Bones
 Dethklok|Death Album II
+*Do Not Forsake Me Oh My Darling|The New Number 2
 *Eco Del Sur|Latin American Roots
 *Edith Piaf|La Vie en Rose
 *Ember Schrag|A Cruel Cruel Woman
@@ -56,6 +57,7 @@ Rasputina|Sister Kinderhook|SIGNED
 *Regina Spektor|Soviet Kitsch
 Ruby Perrone|The Language of Spirits
 *Sarah Rabdau and Self-Employed Assassins|Sarah Rabdau and Self-Employed Assassins|SIGNED
+Sarah Rabdau and Self-Employed Assassins|Free as Thieves
 *Save Ferris|modified
 *Sita Sings the Blues|Music from the Motion Picture
 *Supercute|Supercute
