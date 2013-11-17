@@ -1,5 +1,5 @@
-Abney Park|Aether Shanties|SIGNED
-Abney Park|Lost Horizons|SIGNED
+*Abney Park|Aether Shanties|SIGNED
+*Abney Park|Lost Horizons|SIGNED
 *Ad Frank|The World's Best Ex-Boyfriend
 *Ad Frank|Your Secrets Are Mine Now|SIGNED|ART|SETLIST
 *Alia Lorae|The Mad and the Beautiful
