@@ -43,7 +43,7 @@ Jaggery|Upon a Penumbra
 Jason Trachtenburg|Revolutions Per Minute
 Kath Bloom|Thin Thin Line
 *Larkin Grimm|Live from Another Planet
-Larry Moser and Mary Nagin|Sharing the Light (Hammered Dulcimer and Fiddle)
+*Larry Moser and Mary Nagin|Sharing the Light (Hammered Dulcimer and Fiddle)
 *Mayanot 81
 Michael J. Epstein Memorial Library|Faith in Free
 Michael J. Epstein Memorial Library|Golden Bloom
