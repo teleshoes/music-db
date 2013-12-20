@@ -7,7 +7,7 @@
 *Ari & Mia|Land on Shore
 *Blind Guardian|Nightfall in Middle Earth|bootleg
 *Blind Guardian|The Forgotten Tales|bootleg
-Boston Does Boston Vol 1 & 2
+*Boston Does Boston Vol 1 & 2
 *Bottom of the Well|Bottom of the Well
 *Box Five|Leave the Earth Behind
 *Cecile Corbel|Roses Songbook Vol 4
@@ -35,8 +35,8 @@ Exit Clov|Respond Respond
 *Gypsy Nomads|Happy Madness|SIGNED
 *Hellblinki|Oratory|SIGNED
 *Hellblinki|These Bubbles Come From Ants|SIGNED
-Here We Just Dream|EP#1
-Here We Just Dream|Wind with You
+*Here We Just Dream|EP#1
+*Here We Just Dream|Wind with You
 *Horloge Grand-Pere|Du temps pour emporter
 *Jaggery|Private Violence
 Jaggery|Upon a Penumbra
@@ -45,8 +45,8 @@ Kath Bloom|Thin Thin Line
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light (Hammered Dulcimer and Fiddle)
 *Mayanot 81
-Michael J. Epstein Memorial Library|Faith in Free
-Michael J. Epstein Memorial Library|Golden Bloom
+*Michael J. Epstein Memorial Library|Faith in Free
+*Michael J. Epstein Memorial Library|Golden Bloom
 *Michael J. Epstein Memorial Library|The Art Music Exchange
 Michael Zuko|Miles from a Kiss
 *Miles Dethmuffen|Clutter
