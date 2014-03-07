@@ -55,6 +55,7 @@ Michael Zuko|Miles from a Kiss
 *Neko Case|Fox Confessor Brings the Flood
 *Neko Case|Middle Cyclone
 *Nicole Atkins|Neptune City
+*Nicole Atkins|Slow Phaser|SIGNED
 *Ottmar Liebert|Christmas Santa Fe
 *Paul and Storm|Gumbopants
 *Permafrost|In Harm's Way
@@ -92,6 +93,7 @@ Wazozo|Newton Circus
 
 *Brave|Original Score
 *Highlights from The Phantom of the Opera|Original Cast Recording
+*Matilda the Musical|Original Broadway Cast Recording
 *The Gershwin's Porgy and Bess|New Broadway Cast Recording
 *Toy Story 2|Soundtrack
 *James and the Giant Peach|Soundtrack
