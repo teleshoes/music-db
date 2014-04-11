@@ -18,6 +18,8 @@ Copal|Into the Shadow Garden
 *Corrientes|Corrientes en Espanol
 *Crystal Bright and the Silver Hands|Crystal Bright and the Silver Hands
 *Crystal Bright and the Silver Hands|Muses and Bones
+Dark Dark Dark|Wild Go
+Dark Dark Dark|The Snow Magic
 Dethklok|Death Album II
 *Do Not Forsake Me Oh My Darling|The New Number 2
 *Eco Del Sur|Latin American Roots
@@ -99,3 +101,4 @@ Wazozo|Newton Circus
 *James and the Giant Peach|Soundtrack
 *The Hobbit An Unexpected Journey|Original Motion Picture Soundtrack
 *The Legend of Zelda Ocarina of Time 3D|Official Soundtrack
+*The Wind Rises|Japanese Soundtrack
