@@ -101,4 +101,4 @@ Wazozo|Newton Circus
 *James and the Giant Peach|Soundtrack
 *The Hobbit An Unexpected Journey|Original Motion Picture Soundtrack
 *The Legend of Zelda Ocarina of Time 3D|Official Soundtrack
-*The Wind Rises|Japanese Soundtrack
+*The Wind Rises|Korean Soundtrack
