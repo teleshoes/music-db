@@ -95,6 +95,7 @@ Wazozo|Newton Circus
 
 *Brave|Original Score
 *Highlights from The Phantom of the Opera|Original Cast Recording
+Inside Llewyn Davis|Original Soundtrack Recording
 *Matilda the Musical|Original Broadway Cast Recording
 *The Gershwin's Porgy and Bess|New Broadway Cast Recording
 *Toy Story 2|Soundtrack
@@ -102,3 +103,4 @@ Wazozo|Newton Circus
 *The Hobbit An Unexpected Journey|Original Motion Picture Soundtrack
 *The Legend of Zelda Ocarina of Time 3D|Official Soundtrack
 *The Wind Rises|Korean Soundtrack
+War Horse|Original music and songs from the National Theatre production
