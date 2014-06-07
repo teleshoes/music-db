@@ -86,7 +86,7 @@ Voltaire|To the Bottom of the Sea|SIGNED
 *Walter Sickert and the Army of Broken Toys|28 Seeds
 Walter Sickert and the Army of Broken Toys|Casualty Menageria|SIGNED
 Walter Sickert and the Army of Broken Toys|Steam Ship Killers
-Wazozo|Newton Circus
+Wazozo|Newton Circus|SIGNED
 *Zoe Keating|Into the Trees
 *Zoe Keating|One Cello x 16: Natoma
 *o'death|outside
