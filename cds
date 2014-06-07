@@ -14,13 +14,13 @@
 *Cecile Corbel|Songbook 1
 *Christmas Strings and Harp
 *Cirque Du Soleil|Alegria
-Copal|Into the Shadow Garden
+*Copal|Into the Shadow Garden
 *Corrientes|Corrientes en Espanol
 *Crystal Bright and the Silver Hands|Crystal Bright and the Silver Hands
 *Crystal Bright and the Silver Hands|Muses and Bones
 *Dark Dark Dark|Wild Go
 *Dark Dark Dark|The Snow Magic
-Dethklok|Death Album II
+*Dethklok|Death Album II
 *Do Not Forsake Me Oh My Darling|The New Number 2
 *Eco Del Sur|Latin American Roots
 *Edith Piaf|La Vie en Rose
@@ -30,7 +30,7 @@ Dethklok|Death Album II
 *Emperor Norton's Stationary Marching Band|Wandering Shamelessly
 *Evelyn Evelyn|Evelyn Evelyn
 *Exit Clov|Jolly Roget Sessions
-Exit Clov|Respond Respond
+*Exit Clov|Respond Respond
 *Foolish Ida|Book II|SIGNED|ART
 *Frency and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
 *Goli|Goli|SIGNED|ART
@@ -41,16 +41,16 @@ Exit Clov|Respond Respond
 *Here We Just Dream|Wind with You
 *Horloge Grand-Pere|Du temps pour emporter
 *Jaggery|Private Violence
-Jaggery|Upon a Penumbra
-Jason Trachtenburg|Revolutions Per Minute
-Kath Bloom|Thin Thin Line
+*Jaggery|Upon a Penumbra
+*Jason Trachtenburg|Revolutions Per Minute
+*Kath Bloom|Thin Thin Line
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light (Hammered Dulcimer and Fiddle)
 *Mayanot 81
 *Michael J. Epstein Memorial Library|Faith in Free
 *Michael J. Epstein Memorial Library + Golden Bloom | Swap Meet
 *Michael J. Epstein Memorial Library|The Art Music Exchange
-Michael Zuko|Miles from a Kiss
+*Michael Zuko|Miles from a Kiss
 *Miles Dethmuffen|Clutter
 *Molly Zenobia|November Antique|SIGNED|ART
 *Molly Zenobia|Wind Chains|ART
@@ -64,9 +64,9 @@ Michael Zuko|Miles from a Kiss
 *Petaluma Vale|The Long Way Out|SIGNED
 *Plushgun|Pins and Panzers|SIGNED
 *Plushgun|me.me.|SIGNED
-Rasputina|Sister Kinderhook|SIGNED
+*Rasputina|Sister Kinderhook|SIGNED
 *Regina Spektor|Soviet Kitsch
-Ruby Perrone|The Language of Spirits
+*Ruby Perrone|The Language of Spirits
 *Sarah Rabdau and Self-Employed Assassins|Sarah Rabdau and Self-Employed Assassins|SIGNED
 *Sarah Rabdau and Self-Employed Assassins|Free as Thieves
 *Save Ferris|modified
@@ -76,17 +76,17 @@ Ruby Perrone|The Language of Spirits
 *This Way to the Egress|Ballads and Titles to Slaughter Your Spouse By
 *This Way to the Egress|Egress|SIGNED|ART
 *This Way to the Egress|Mighty Seed
-Todd Isler|Soul Drums
-Veil|Xe.|humanwine
+*Todd Isler|Soul Drums
+*Veil|Xe.|humanwine
 *Vermillion Lies|Separated by Birth|2nd edition
 *Vermillion Lies|What's in the Box?
-Voltaire|Bitrektual|SIGNED
-Voltaire|Riding a Black Unicorn|SIGNED
-Voltaire|To the Bottom of the Sea|SIGNED
+*Voltaire|Bitrektual|SIGNED
+*Voltaire|Riding a Black Unicorn|SIGNED
+*Voltaire|To the Bottom of the Sea|SIGNED
 *Walter Sickert and the Army of Broken Toys|28 Seeds
-Walter Sickert and the Army of Broken Toys|Casualty Menageria|SIGNED
-Walter Sickert and the Army of Broken Toys|Steam Ship Killers
-Wazozo|Newton Circus|SIGNED
+*Walter Sickert and the Army of Broken Toys|Casualty Menageria|SIGNED
+*Walter Sickert and the Army of Broken Toys|Steam Ship Killers
+*Wazozo|Newton Circus|SIGNED
 *Zoe Keating|Into the Trees
 *Zoe Keating|One Cello x 16: Natoma
 *o'death|outside
