@@ -95,7 +95,7 @@
 
 *Brave|Original Score
 *Highlights from The Phantom of the Opera|Original Cast Recording
-Hedwig and the Angry Inch|Original Broadway Cast Recording
+*Hedwig and the Angry Inch|Original Broadway Cast Recording
 *Inside Llewyn Davis|Original Soundtrack Recording
 *Matilda the Musical|Original Broadway Cast Recording
 *The Gershwin's Porgy and Bess|New Broadway Cast Recording
