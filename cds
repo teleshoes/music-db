@@ -44,7 +44,7 @@
 *Jaggery|Private Violence
 *Jaggery|Upon a Penumbra
 *Jason Trachtenburg|Revolutions Per Minute
-Johnny Blazes and the Pretty Boys|Blue Skies|SIGNED
+*Johnny Blazes and the Pretty Boys|Blue Skies|SIGNED
 *Kath Bloom|Thin Thin Line
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light (Hammered Dulcimer and Fiddle)
