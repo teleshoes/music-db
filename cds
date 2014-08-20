@@ -75,6 +75,7 @@
 *Sita Sings the Blues|Music from the Motion Picture
 *Supercute|Supercute
 *The World Inferno Friendship Society|red-eyed soul
+The Zombies|Breathe Out, Breathe In|SIGNED(at show, not in front of me)
 *This Way to the Egress|Ballads and Titles to Slaughter Your Spouse By
 *This Way to the Egress|Egress|SIGNED|ART
 *This Way to the Egress|Mighty Seed
