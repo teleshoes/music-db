@@ -40,7 +40,7 @@
 *Here We Just Dream|EP#1
 *Here We Just Dream|Wind with You
 *Horloge Grand-Pere|Du temps pour emporter
-*Jaggery|For the Record|SIGNED
+*Jaggery|For the Record|SIGNED(mailed, personalized)
 *Jaggery|Private Violence
 *Jaggery|Upon a Penumbra
 *Jason Trachtenburg|Revolutions Per Minute
