@@ -31,6 +31,7 @@
 *Evelyn Evelyn|Evelyn Evelyn
 *Exit Clov|Jolly Roget Sessions
 *Exit Clov|Respond Respond
+Flynn Cohen|Mellow Yell
 *Foolish Ida|Book II|SIGNED|ART
 *Frency and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
 *Goli|Goli|SIGNED|ART
@@ -46,6 +47,7 @@
 *Jason Trachtenburg|Revolutions Per Minute
 *Johnny Blazes and the Pretty Boys|Blue Skies|SIGNED
 *Kath Bloom|Thin Thin Line
+Katie McNally|Flourish
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light (Hammered Dulcimer and Fiddle)
 *Mayanot 81
