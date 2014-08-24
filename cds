@@ -50,6 +50,7 @@ Flynn Cohen|Mellow Yell
 Katie McNally|Flourish
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light (Hammered Dulcimer and Fiddle)
+Maidens IV|Live Out Loud
 *Mayanot 81
 *Michael J. Epstein Memorial Library|Faith in Free
 *Michael J. Epstein Memorial Library + Golden Bloom | Swap Meet
