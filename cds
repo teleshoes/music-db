@@ -36,6 +36,7 @@ Flynn Cohen|Mellow Yell
 *Foolish Ida|Book II|SIGNED|ART
 *Frency and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
 *Goli|Goli|SIGNED|ART
+Gipsy Kings|Savor Flamenco
 *Gypsy Nomads|Happy Madness|SIGNED
 *Hellblinki|Oratory|SIGNED
 *Hellblinki|These Bubbles Come From Ants|SIGNED
