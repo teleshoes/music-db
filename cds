@@ -35,6 +35,8 @@
 *Flynn Cohen|Mellow Yell
 *Foolish Ida|Book II|SIGNED|ART
 *Frency and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
+Gem Club|Acid and Everything
+Gem Club|In Roses
 *Goli|Goli|SIGNED|ART
 *Gipsy Kings|Savor Flamenco
 *Gypsy Nomads|Happy Madness|SIGNED
@@ -52,6 +54,8 @@
 *Katie McNally|Flourish
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light (Hammered Dulcimer and Fiddle)
+Luluc|Dear Hamlyn
+Luluc|Passerby
 *Maidens IV|Live Out Loud
 *Mayanot 81
 *Michael J. Epstein Memorial Library|Faith in Free
