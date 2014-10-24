@@ -10,7 +10,7 @@
 *Boston Does Boston Vol 1 & 2
 *Bottom of the Well|Bottom of the Well
 *Box Five|Leave the Earth Behind
-Caitlin Marie Bell|Blood and the Water
+*Caitlin Marie Bell|Blood and the Water
 *Cecile Corbel|Roses Songbook Vol 4
 *Cecile Corbel|Songbook 1
 *Christmas Strings and Harp
@@ -32,11 +32,11 @@ Caitlin Marie Bell|Blood and the Water
 *Evelyn Evelyn|Evelyn Evelyn
 *Exit Clov|Jolly Roget Sessions
 *Exit Clov|Respond Respond
-Flynn Cohen|Mellow Yell
+*Flynn Cohen|Mellow Yell
 *Foolish Ida|Book II|SIGNED|ART
 *Frency and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
 *Goli|Goli|SIGNED|ART
-Gipsy Kings|Savor Flamenco
+*Gipsy Kings|Savor Flamenco
 *Gypsy Nomads|Happy Madness|SIGNED
 *Hellblinki|Oratory|SIGNED
 *Hellblinki|These Bubbles Come From Ants|SIGNED
@@ -49,10 +49,10 @@ Gipsy Kings|Savor Flamenco
 *Jason Trachtenburg|Revolutions Per Minute
 *Johnny Blazes and the Pretty Boys|Blue Skies|SIGNED
 *Kath Bloom|Thin Thin Line
-Katie McNally|Flourish
+*Katie McNally|Flourish
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light (Hammered Dulcimer and Fiddle)
-Maidens IV|Live Out Loud
+*Maidens IV|Live Out Loud
 *Mayanot 81
 *Michael J. Epstein Memorial Library|Faith in Free
 *Michael J. Epstein Memorial Library + Golden Bloom | Swap Meet
