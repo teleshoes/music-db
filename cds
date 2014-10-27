@@ -11,7 +11,7 @@
 *Bottom of the Well|Bottom of the Well
 *Box Five|Leave the Earth Behind
 *Caitlin Marie Bell|Blood and the Water
-Cecile Corbel|La Fiancee
+*Cecile Corbel|La Fiancee
 *Cecile Corbel|Roses Songbook Vol 4
 *Cecile Corbel|Songbook 1
 *Christmas Strings and Harp
@@ -36,8 +36,8 @@ Cecile Corbel|La Fiancee
 *Flynn Cohen|Mellow Yell
 *Foolish Ida|Book II|SIGNED|ART
 *Frency and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
-Gem Club|Acid and Everything
-Gem Club|In Roses
+*Gem Club|Acid and Everything
+*Gem Club|In Roses
 *Goli|Goli|SIGNED|ART
 *Gipsy Kings|Savor Flamenco
 *Gypsy Nomads|Happy Madness|SIGNED
@@ -55,8 +55,8 @@ Gem Club|In Roses
 *Katie McNally|Flourish
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light (Hammered Dulcimer and Fiddle)
-Luluc|Dear Hamlyn
-Luluc|Passerby
+*Luluc|Dear Hamlyn
+*Luluc|Passerby
 *Maidens IV|Live Out Loud
 *Mayanot 81
 *Michael J. Epstein Memorial Library|Faith in Free
