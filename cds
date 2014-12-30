@@ -5,6 +5,7 @@
 *Alia Lorae|The Mad and the Beautiful
 *Amanda Palmer|Theatre Is Evil
 *Ari & Mia|Land on Shore
+Bent Knee|Shiny Eyed Babies
 *Blind Guardian|Nightfall in Middle Earth|bootleg
 *Blind Guardian|The Forgotten Tales|bootleg
 *Boston Does Boston Vol 1 & 2
