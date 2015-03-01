@@ -36,6 +36,7 @@
 *Exit Clov|Respond Respond
 *Flynn Cohen|Mellow Yell
 *Foolish Ida|Book II|SIGNED|ART
+Francesca Gagnon|Au dela des couleurs
 *Frency and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
 *Gem Club|Acid and Everything
 *Gem Club|In Roses
