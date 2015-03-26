@@ -21,6 +21,7 @@
 *Corrientes|Corrientes en Espanol
 *Crystal Bright and the Silver Hands|Crystal Bright and the Silver Hands
 *Crystal Bright and the Silver Hands|Muses and Bones
+Crystal Bright and the Silver Hands|The Absolute Elsewhere|SIGNED
 *Dark Dark Dark|Wild Go
 *Dark Dark Dark|The Snow Magic
 *Dethklok|Death Album II
