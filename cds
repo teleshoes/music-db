@@ -118,6 +118,7 @@ If/Then|Original Broadway Cast Recording
 *The Gershwin's Porgy and Bess|New Broadway Cast Recording
 *Toy Story 2|Soundtrack
 *James and the Giant Peach|Soundtrack
+The 25th Annual Putnam County Spelling Bee|Original Broadway Cast Recording
 *The Hobbit An Unexpected Journey|Original Motion Picture Soundtrack
 *The Legend of Zelda Ocarina of Time 3D|Official Soundtrack
 *The Wind Rises|Korean Soundtrack
