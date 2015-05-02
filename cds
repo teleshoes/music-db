@@ -109,7 +109,7 @@
 
 
 
-If/Then|Original Broadway Cast Recording
+*If/Then|Original Broadway Cast Recording
 *Brave|Original Score
 *Highlights from The Phantom of the Opera|Original Cast Recording
 *Hedwig and the Angry Inch|Original Broadway Cast Recording
