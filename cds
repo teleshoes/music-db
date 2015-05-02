@@ -21,7 +21,7 @@
 *Corrientes|Corrientes en Espanol
 *Crystal Bright and the Silver Hands|Crystal Bright and the Silver Hands
 *Crystal Bright and the Silver Hands|Muses and Bones
-Crystal Bright and the Silver Hands|The Absolute Elsewhere|SIGNED
+*Crystal Bright and the Silver Hands|The Absolute Elsewhere|SIGNED
 *Dark Dark Dark|Wild Go
 *Dark Dark Dark|The Snow Magic
 *Dethklok|Death Album II
@@ -118,7 +118,7 @@ If/Then|Original Broadway Cast Recording
 *The Gershwin's Porgy and Bess|New Broadway Cast Recording
 *Toy Story 2|Soundtrack
 *James and the Giant Peach|Soundtrack
-The 25th Annual Putnam County Spelling Bee|Original Broadway Cast Recording
+*The 25th Annual Putnam County Spelling Bee|Original Broadway Cast Recording
 *The Hobbit An Unexpected Journey|Original Motion Picture Soundtrack
 *The Legend of Zelda Ocarina of Time 3D|Official Soundtrack
 *The Wind Rises|Korean Soundtrack
