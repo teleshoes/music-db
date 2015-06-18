@@ -101,6 +101,7 @@
 *Voltaire|To the Bottom of the Sea|SIGNED
 *Walter Sickert and the Army of Broken Toys|28 Seeds
 *Walter Sickert and the Army of Broken Toys|Casualty Menagerie|SIGNED
+Walter Sickert and the Army of Broken Toys|Shockheaded Peter
 *Walter Sickert and the Army of Broken Toys|Steam Ship Killers
 *Wazozo|Newton Circus|SIGNED
 *Zoe Keating|Into the Trees
