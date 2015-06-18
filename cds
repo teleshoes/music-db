@@ -61,6 +61,7 @@ Frency and the Punk|Bonjour Batfrog
 *Katie McNally|Flourish
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light (Hammered Dulcimer and Fiddle)
+Les Sans Culottes|The Gods Have Thirst
 *Luluc|Dear Hamlyn
 *Luluc|Passerby
 *Maidens IV|Live Out Loud
@@ -72,6 +73,7 @@ Frency and the Punk|Bonjour Batfrog
 *Miles Dethmuffen|Clutter
 *Molly Zenobia|November Antique|SIGNED|ART
 *Molly Zenobia|Wind Chains|ART
+Myriam Phiro|My Reverie
 *Neko Case|Fox Confessor Brings the Flood
 *Neko Case|Middle Cyclone
 *Nicole Atkins|Neptune City
