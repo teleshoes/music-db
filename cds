@@ -28,6 +28,8 @@
 *Do Not Forsake Me Oh My Darling|The New Number 2
 *Eco Del Sur|Latin American Roots
 *Edith Piaf|La Vie en Rose
+Eli August & The Abandoned Buildings|A Heartache Suite
+Eli August & The Abandoned Buildings|To the Weak and the Weary
 *Ember Schrag|A Cruel Cruel Woman
 *Emperor Norton's Stationary Marching Band|Disco Dischordia
 *Emperor Norton's Stationary Marching Band|Reign of Revelry
@@ -39,6 +41,7 @@
 *Foolish Ida|Book II|SIGNED|ART
 *Francesca Gagnon|Au dela des couleurs
 *Frency and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
+Frency and the Punk|Bonjour Batfrog
 *Gem Club|Acid and Everything
 *Gem Club|In Roses
 *Goli|Goli|SIGNED|ART
@@ -91,6 +94,7 @@
 *The Zombies|Breathe Out, Breathe In|SIGNED(at show, not in front of me)
 *This Way to the Egress|Ballads and Titles to Slaughter Your Spouse By
 *This Way to the Egress|Egress|SIGNED|ART
+This Way to the Egress|Great Balancing Act
 *This Way to the Egress|Mighty Seed
 *Todd Isler|Soul Drums
 *Veil|Xe.|humanwine
