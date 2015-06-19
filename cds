@@ -116,7 +116,7 @@ Walter Sickert and the Army of Broken Toys|Shockheaded Peter
 
 
 
-Fun Home|A New Broadway Musical
+*Fun Home|A New Broadway Musical
 *If/Then|Original Broadway Cast Recording
 *Brave|Original Score
 *Highlights from The Phantom of the Opera|Original Cast Recording
