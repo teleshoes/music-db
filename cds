@@ -74,6 +74,7 @@ Les Sans Culottes|The Gods Have Thirst
 *Molly Zenobia|November Antique|SIGNED|ART
 *Molly Zenobia|Wind Chains|ART
 Myriam Phiro|My Reverie
+Myriam Phiro|Voyages|SIGNED
 *Neko Case|Fox Confessor Brings the Flood
 *Neko Case|Middle Cyclone
 *Nicole Atkins|Neptune City
