@@ -59,6 +59,7 @@ Frency and the Punk|Bonjour Batfrog
 *Jenny Dee and the Deelinquents|Electric Candyland
 *Jason Trachtenburg|Revolutions Per Minute
 *Johnny Blazes and the Pretty Boys|Blue Skies|SIGNED
+*Johnny Blazes and the Pretty Boys|Soul Vernacular|SIGNED
 *Kath Bloom|Thin Thin Line
 *Katie McNally|Flourish
 *Larkin Grimm|Live from Another Planet
