@@ -105,7 +105,7 @@ Myriam Phiro|Voyages|SIGNED
 *The Zombies|Breathe Out, Breathe In|SIGNED(at show, not in front of me)
 *This Way to the Egress|Ballads and Titles to Slaughter Your Spouse By
 *This Way to the Egress|Egress|SIGNED|ART
-This Way to the Egress|Great Balancing Act
+*This Way to the Egress|Great Balancing Act
 *This Way to the Egress|Mighty Seed
 *Todd Isler|Soul Drums
 *Veil|Xe.|humanwine
