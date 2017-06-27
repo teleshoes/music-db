@@ -28,8 +28,8 @@
 *Do Not Forsake Me Oh My Darling|The New Number 2
 *Eco Del Sur|Latin American Roots
 *Edith Piaf|La Vie en Rose
-Eli August & The Abandoned Buildings|A Heartache Suite
-Eli August & The Abandoned Buildings|To the Weak and the Weary
+*Eli August & The Abandoned Buildings|A Heartache Suite
+*Eli August & The Abandoned Buildings|To the Weak and the Weary
 *Ember Schrag|A Cruel Cruel Woman
 *Emperor Norton's Stationary Marching Band|Disco Dischordia
 *Emperor Norton's Stationary Marching Band|Reign of Revelry
