@@ -78,6 +78,9 @@ Les Sans Culottes|The Gods Have Thirst
 *Molly Zenobia|Wind Chains|ART
 Myriam Phiro|My Reverie
 Myriam Phiro|Voyages|SIGNED
+*Nathaniel Johnstone|Narratives
+*Nathaniel Johnstone|The Antikythera Mechanism
+*Nathaniel Johnstone|The Mother Matrix
 *Neko Case|Fox Confessor Brings the Flood
 *Neko Case|Middle Cyclone
 *Nicole Atkins|Neptune City
