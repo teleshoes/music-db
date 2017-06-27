@@ -56,6 +56,7 @@ Frency and the Punk|Bonjour Batfrog
 *Jaggery|For the Record|SIGNED(mailed, personalized)
 *Jaggery|Private Violence
 *Jaggery|Upon a Penumbra
+*Jenny Dee and the Deelinquents|Electric Candyland
 *Jason Trachtenburg|Revolutions Per Minute
 *Johnny Blazes and the Pretty Boys|Blue Skies|SIGNED
 *Kath Bloom|Thin Thin Line
