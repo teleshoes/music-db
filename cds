@@ -45,6 +45,7 @@ Frency and the Punk|Bonjour Batfrog
 *Gem Club|Acid and Everything
 *Gem Club|In Roses
 *Goli|Goli|SIGNED|ART
+*Goli|this is not a love song|SIGNED
 *Gipsy Kings|Savor Flamenco
 *Gypsy Nomads|Happy Madness|SIGNED
 *Hellblinki|Oratory|SIGNED
