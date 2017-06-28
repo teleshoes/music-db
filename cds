@@ -102,6 +102,7 @@ Myriam Phiro|My Reverie
 *Sita Sings the Blues|Music from the Motion Picture
 *Supercute|Supercute
 *The Decemberists|Billy Liar
+*The Rhythm Future Quartet|The Rhythm Future Quartet|SIGNED
 *The Ladles|The Ladles
 *The World Inferno Friendship Society|red-eyed soul
 *The Zombies|Breathe Out, Breathe In|SIGNED(at show, not in front of me)
