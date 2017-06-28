@@ -45,6 +45,7 @@ sub convertSongToInsert($){
     . "," . "'$$song{artist}'"
     . "," . "'$$song{albumartist}'"
     . "," . "'$$song{album}'"
+    . (defined $$song{disc} ? "," . "'$$song{disc}'" : "")
     . "," . "'$$song{number}'"
     . "," . "'$$song{date}'"
     . "," . "'$$song{genre}'"
@@ -52,6 +53,7 @@ sub convertSongToInsert($){
     . "," . "'$$song{artist_guess}'"
     . "," . "'$$song{albumartist_guess}'"
     . "," . "'$$song{album_guess}'"
+    . (defined $$song{disc_guess} ? "," . "'$$song{disc_guess}'" : "")
     . "," . "'$$song{number_guess}'"
     . "," . "'$$song{date_guess}'"
     . "," . "'$$song{genre_guess}'"
@@ -75,6 +77,7 @@ sub convertInsertToSong($){
         '(?<artist>            $quoteVal     )',
         '(?<albumartist>       $quoteVal     )',
         '(?<album>             $quoteVal     )',
+     (?:'(?<disc>              $quoteVal     )',)?
         '(?<number>            $quoteVal     )',
         '(?<date>              $quoteVal     )',
         '(?<genre>             $quoteVal     )',
@@ -82,6 +85,7 @@ sub convertInsertToSong($){
         '(?<artist_guess>      $quoteVal     )',
         '(?<albumartist_guess> $quoteVal     )',
         '(?<album_guess>       $quoteVal     )',
+     (?:'(?<disc_guess>        $quoteVal     )',)?
         '(?<number_guess>      $quoteVal     )',
         '(?<date_guess>        $quoteVal     )',
         '(?<genre_guess>       $quoteVal     )'
