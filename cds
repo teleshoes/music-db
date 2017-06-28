@@ -62,6 +62,7 @@
 *Johnny Blazes and the Pretty Boys|Soul Vernacular|SIGNED
 *Kath Bloom|Thin Thin Line
 *Katie McNally|Flourish
+*La La Land Original Motion Picture Soundtrack
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light (Hammered Dulcimer and Fiddle)
 *Les Sans Culottes|The Gods Have Thirst
