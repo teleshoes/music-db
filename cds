@@ -64,7 +64,7 @@
 *Katie McNally|Flourish
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light (Hammered Dulcimer and Fiddle)
-Les Sans Culottes|The Gods Have Thirst
+*Les Sans Culottes|The Gods Have Thirst
 *Luluc|Dear Hamlyn
 *Luluc|Passerby
 *Maidens IV|Live Out Loud
