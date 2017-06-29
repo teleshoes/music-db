@@ -141,6 +141,7 @@
 *James and the Giant Peach||Soundtrack
 *Matilda the Musical - Original Broadway Cast Recording
 *Sita Sings the Blues||Music from the Motion Picture
+*Stranger Things Vol 1 - Soundtrack
 *The 25th Annual Putnam County Spelling Bee - 2005 Broadway Cast
 *The Gershwin's Porgy and Bess - New Broadway Cast Recording
 *The Hobbit An Unexpected Journey||Original Motion Picture Soundtrack
