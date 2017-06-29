@@ -87,6 +87,7 @@
 *Neko Case|Middle Cyclone
 *Nicole Atkins|Neptune City
 *Nicole Atkins|Slow Phaser|SIGNED
+*O'Death|Outside
 *Ottmar Liebert|Christmas Santa Fe
 *Paul and Storm|Gumbo Pants
 *Permafrost|In Harm's Way
@@ -98,13 +99,13 @@
 *Rudy Perrone|The Language of Spirits
 *Sarah Rabdau|Sarah Rabdau and Self-Employed Assassins|SIGNED
 *Sarah Rabdau|Free as Thieves
-*Save Ferris|modified
+*Save Ferris|Modified
 *Sita Sings the Blues|Music from the Motion Picture
 *Supercute|Supercute
 *The Decemberists|Billy Liar
 *The Rhythm Future Quartet|The Rhythm Future Quartet|SIGNED
 *The Ladles|The Ladles
-*The World Inferno Friendship Society|red-eyed soul
+*The World Inferno Friendship Society|Red-Eyed Soul
 *The Zombies|Breathe Out, Breathe In|SIGNED(at show, not in front of me)
 *This Way to the Egress|Ballads and Titles to Slaughter Your Spouse By
 *This Way to the Egress|Egress|SIGNED|ART
@@ -124,7 +125,6 @@
 *Wazozo|Newton Circus|SIGNED
 *Zoe Keating|Into the Trees
 *Zoe Keating|One Cello x 16: Natoma
-*o'death|outside
 
 
 
