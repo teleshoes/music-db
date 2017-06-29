@@ -96,8 +96,8 @@
 *Rasputina|Sister Kinderhook|SIGNED
 *Regina Spektor|Soviet Kitsch
 *Rudy Perrone|The Language of Spirits
-*Sarah Rabdau and Self-Employed Assassins|Sarah Rabdau and Self-Employed Assassins|SIGNED
-*Sarah Rabdau and Self-Employed Assassins|Free as Thieves
+*Sarah Rabdau|Sarah Rabdau and Self-Employed Assassins|SIGNED
+*Sarah Rabdau|Free as Thieves
 *Save Ferris|modified
 *Sita Sings the Blues|Music from the Motion Picture
 *Supercute|Supercute
