@@ -42,7 +42,7 @@ sub main(@){
         my $info = join '', <CMD>;
         close CMD;
         my $acoustid = $1 if $info =~ /acoustid=(.*)/;
-        if($acoustid =~ /^[0-9a-f\-]+$/){
+        if(defined $acoustid and $acoustid =~ /^[0-9a-f\-]+$/){
           $anyAcoustid = $acoustid;
         }
       }
