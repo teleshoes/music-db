@@ -72,7 +72,7 @@
 *Maidens IV|Live Out Loud
 *Mayanot 81
 *Michael J. Epstein Memorial Library|Faith in Free
-*Michael J. Epstein Memorial Library + Golden Bloom | Swap Meet
+*Michael J. Epstein Memorial Library|Swap Meet|with Golden Bloom
 *Michael J. Epstein Memorial Library|The Art Music Exchange
 *Michael Zuko|Miles from a Kiss
 *Miles Dethmuffen|Clutter
