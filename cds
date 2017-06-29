@@ -21,6 +21,7 @@
 *Cirque Du Soleil|Alegria
 *Copal|Into the Shadow Garden
 *Corrientes|Corrientes en Espanol
+*Craig Duncan|On Christmas Eve|dulcimer
 *Crystal Bright and the Silver Hands|Crystal Bright and the Silver Hands
 *Crystal Bright and the Silver Hands|Muses and Bones
 *Crystal Bright and the Silver Hands|The Absolute Elsewhere|SIGNED
