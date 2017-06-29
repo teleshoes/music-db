@@ -25,7 +25,7 @@
 *Crystal Bright and the Silver Hands|The Absolute Elsewhere|SIGNED
 *Dark Dark Dark|Wild Go
 *Dark Dark Dark|The Snow Magic
-*Dethklok|Death Album II
+*Dethklok|Dethalbum II
 *Do Not Forsake Me Oh My Darling|The New Number 2
 *Eco Del Sur|Latin American Roots
 *Edith Piaf|La Vie en Rose
