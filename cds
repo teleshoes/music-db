@@ -23,8 +23,8 @@
 *Crystal Bright and the Silver Hands|Crystal Bright and the Silver Hands
 *Crystal Bright and the Silver Hands|Muses and Bones
 *Crystal Bright and the Silver Hands|The Absolute Elsewhere|SIGNED
-*Dark Dark Dark|Wild Go
 *Dark Dark Dark|The Snow Magic
+*Dark Dark Dark|Wild Go
 *Dethklok|Dethalbum II
 *Do Not Forsake Me Oh My Darling|The New Number 2
 *Eco Del Sur|Latin American Roots
@@ -41,13 +41,13 @@
 *Flynn Cohen|Mellow Yell
 *Foolish Ida|Book II|SIGNED|ART
 *Francesca Gagnon|Au dela des couleurs
-*Frenchy and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
 *Frenchy and the Punk|Bonjour Batfrog
+*Frenchy and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
 *Gem Club|Acid and Everything
 *Gem Club|In Roses
+*Gipsy Kings|Savor Flamenco
 *Goli|Goli|SIGNED|ART
 *Goli|this is not a love song|SIGNED
-*Gipsy Kings|Savor Flamenco
 *Gypsy Nomads|Happy Madness|SIGNED
 *Hellblinki|Oratory|SIGNED
 *Hellblinki|These Bubbles Come From Ants|SIGNED
@@ -57,8 +57,8 @@
 *Jaggery|For the Record|SIGNED(mailed, personalized)
 *Jaggery|Private Violence
 *Jaggery|Upon a Penumbra
-*Jenny Dee and the Deelinquents|Electric Candyland
 *Jason Trachtenburg|Revolutions Per Minute
+*Jenny Dee and the Deelinquents|Electric Candyland
 *Johnny Blazes and the Pretty Boys|Blue Skies|SIGNED
 *Johnny Blazes and the Pretty Boys|Soul Vernacular|SIGNED
 *Kath Bloom|Thin Thin Line
@@ -97,14 +97,14 @@
 *Rasputina|Sister Kinderhook|SIGNED
 *Regina Spektor|Soviet Kitsch
 *Rudy Perrone|The Language of Spirits
-*Sarah Rabdau|Sarah Rabdau and Self-Employed Assassins|SIGNED
 *Sarah Rabdau|Free as Thieves
+*Sarah Rabdau|Sarah Rabdau and Self-Employed Assassins|SIGNED
 *Save Ferris|Modified
 *Sita Sings the Blues|Music from the Motion Picture
 *Supercute|Supercute
 *The Decemberists|Billy Liar
-*The Rhythm Future Quartet|The Rhythm Future Quartet|SIGNED
 *The Ladles|The Ladles
+*The Rhythm Future Quartet|The Rhythm Future Quartet|SIGNED
 *The World Inferno Friendship Society|Red-Eyed Soul
 *The Zombies|Breathe Out, Breathe In|SIGNED(at show, not in front of me)
 *This Way to the Egress|Ballads and Titles to Slaughter Your Spouse By
