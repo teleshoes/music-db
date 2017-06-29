@@ -88,7 +88,7 @@
 *Nicole Atkins|Neptune City
 *Nicole Atkins|Slow Phaser|SIGNED
 *Ottmar Liebert|Christmas Santa Fe
-*Paul and Storm|Gumbopants
+*Paul and Storm|Gumbo Pants
 *Permafrost|In Harm's Way
 *Petaluma Vale|The Long Way Out|SIGNED
 *Plushgun|Pins and Panzers|SIGNED
