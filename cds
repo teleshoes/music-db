@@ -107,6 +107,7 @@
 *Sarah Rabdau|Sarah Rabdau and Self-Employed Assassins|SIGNED
 *Save Ferris|Modified
 *Supercute|Supercute
+*The Chupacabra Cabaret|The Chupacabra Cabaret
 *The Decemberists|Billy Liar
 *The Ladles|The Ladles
 *The Rhythm Future Quartet|The Rhythm Future Quartet|SIGNED
