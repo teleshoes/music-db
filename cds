@@ -51,7 +51,7 @@
 *Gypsy Nomads|Happy Madness|SIGNED
 *Hellblinki|Oratory|SIGNED
 *Hellblinki|These Bubbles Come From Ants|SIGNED
-*Here We Just Dream|EP#1
+*Here We Just Dream|Here We Just Dream|EP#1
 *Here We Just Dream|Wind with You
 *Horloge Grand-Pere|Du temps pour emporter
 *Jaggery|For the Record|SIGNED(mailed, personalized)
