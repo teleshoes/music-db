@@ -52,6 +52,7 @@
 *Goli|Goli|SIGNED|ART
 *Goli|this is not a love song|SIGNED
 *Gypsy Nomads|Happy Madness|SIGNED
+*Handel|Handel Messiah Highlights CBS Great Performances Volume 89
 *Hellblinki|Oratory|SIGNED
 *Hellblinki|These Bubbles Come From Ants|SIGNED
 *Here We Just Dream|Here We Just Dream|EP#1
