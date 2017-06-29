@@ -44,6 +44,7 @@ sub main(@){
         my $acoustid = $1 if $info =~ /acoustid=(.*)/;
         if(defined $acoustid and $acoustid =~ /^[0-9a-f\-]+$/){
           $anyAcoustid = $acoustid;
+          last;
         }
       }
       if(not defined $anyAcoustid){
