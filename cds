@@ -96,6 +96,7 @@
 *Plushgun|me.me.|SIGNED
 *Rasputina|Sister Kinderhook|SIGNED
 *Regina Spektor|Soviet Kitsch
+*Ruby Rose Fox|Ruby Rose Fox
 *Rudy Perrone|The Language of Spirits
 *Sarah Rabdau|Free as Thieves
 *Sarah Rabdau|Sarah Rabdau and Self-Employed Assassins|SIGNED
