@@ -41,8 +41,8 @@
 *Flynn Cohen|Mellow Yell
 *Foolish Ida|Book II|SIGNED|ART
 *Francesca Gagnon|Au dela des couleurs
-*Frency and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
-*Frency and the Punk|Bonjour Batfrog
+*Frenchy and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
+*Frenchy and the Punk|Bonjour Batfrog
 *Gem Club|Acid and Everything
 *Gem Club|In Roses
 *Goli|Goli|SIGNED|ART
