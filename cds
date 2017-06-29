@@ -45,6 +45,8 @@
 *Frenchy and the Punk|Hey Hey Cabaret|Gypsy Nomads|SIGNED
 *Gem Club|Acid and Everything
 *Gem Club|In Roses
+*Gene Dante and the Future Starlets|The Love Letter is Dead|single
+*Gene Dante and the Future Starlets|The Romantic Lead
 *Gipsy Kings|Savor Flamenco
 *Goli|Goli|SIGNED|ART
 *Goli|this is not a love song|SIGNED
