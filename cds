@@ -78,7 +78,7 @@
 *Miles Dethmuffen|Clutter
 *Molly Zenobia|November Antique|SIGNED|ART
 *Molly Zenobia|Wind Chains|ART
-Myriam Phiro|My Reverie
+*Myriam Phiro|My Reverie
 *Myriam Phiro|Voyages|SIGNED
 *Nathaniel Johnstone|Narratives
 *Nathaniel Johnstone|The Antikythera Mechanism
