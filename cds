@@ -6,6 +6,7 @@
 *Amanda Palmer|Theatre Is Evil
 *Ari and Mia|Land on Shore
 *Bent Knee|Shiny Eyed Babies
+*Billie Holiday|Greatest Hits
 *Blind Guardian|Nightfall in Middle Earth|bootleg
 *Blind Guardian|The Forgotten Tales|bootleg
 *Boston Does Boston Vol 1 & 2
