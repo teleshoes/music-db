@@ -95,7 +95,7 @@
 *Plushgun|me.me.|SIGNED
 *Rasputina|Sister Kinderhook|SIGNED
 *Regina Spektor|Soviet Kitsch
-*Ruby Perrone|The Language of Spirits
+*Rudy Perrone|The Language of Spirits
 *Sarah Rabdau and Self-Employed Assassins|Sarah Rabdau and Self-Employed Assassins|SIGNED
 *Sarah Rabdau and Self-Employed Assassins|Free as Thieves
 *Save Ferris|modified
