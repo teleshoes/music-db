@@ -71,6 +71,7 @@
 *La La Land Original Motion Picture Soundtrack
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light|(Hammered Dulcimer and Fiddle)
+Laura Cortese and the Dance Cards|California Calling|SIGNED
 *Les Sans Culottes|The Gods Have Thirst
 *Luluc|Dear Hamlyn
 *Luluc|Passerby
