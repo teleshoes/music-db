@@ -8,7 +8,7 @@
 *Amanda Palmer|Theatre Is Evil
 *Ari and Mia|Land on Shore
 *Bent Knee|Shiny Eyed Babies
-*Bent Knee|Land Animals|SIGNED|CONCERT
+*Bent Knee|Land Animal|SIGNED|CONCERT
 *Billie Holiday|Greatest Hits
 *Blind Guardian|Nightfall in Middle Earth|bootleg
 *Blind Guardian|The Forgotten Tales|bootleg
