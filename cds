@@ -22,7 +22,7 @@
 Cecile Corbel|Vagabonde
 *Christmas Strings and Harp
 *Christopher Tin|Calling All Dawns|SIGNED|MAIL
-*CHVRCHES|Love is Dead|CASSETTE
+*Chvrches|Love Is Dead|CASSETTE
 *Cirque Du Soleil|Alegria
 *Copal|Into the Shadow Garden
 *Corrientes|Corrientes en Espanol
