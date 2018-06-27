@@ -69,6 +69,7 @@ Cecile Corbel|Vagabonde
 *Johnny Blazes and the Pretty Boys|Soul Vernacular|SIGNED
 *Kath Bloom|Thin Thin Line
 *Katie McNally|Flourish
+Kimiko Ishizaka|J.S. Bach - Die Kunst Der Fuge BWV 1080
 *La La Land Original Motion Picture Soundtrack
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light|(Hammered Dulcimer and Fiddle)
