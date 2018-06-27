@@ -141,6 +141,7 @@ Laura Cortese and the Dance Cards|California Calling|SIGNED
 *Highlights from The Phantom of the Opera||Original Cast Recording
 *If/Then||Original Broadway Cast Recording
 *Inside Llewyn Davis||Original Soundtrack Recording
+In the Heights||Original Broadway Cast Recording
 *James and the Giant Peach||Soundtrack
 *Matilda the Musical - Original Broadway Cast Recording
 *Sita Sings the Blues||Music from the Motion Picture
