@@ -6,7 +6,12 @@ sub main(@){
   for my $cd(`cat cds`){
     chomp $cd;
     next if $cd =~ /^\s*$/;
-    if($cd !~ /^\*?([^|]+)(?:\|([^|]*))?(?:\|(.*))?$/){
+
+    if($cd =~ /^[^*]/){
+      die "cd not marked as raptured: $cd\n";
+    }
+
+    if($cd !~ /^\*([^|]+)(?:\|([^|]*))?(?:\|(.*))?$/){
       die "malformed cd: $cd";
     }else{
       my ($part1, $part2, $extras) = ($1, $2, $3);
