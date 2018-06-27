@@ -1,14 +1,14 @@
 *Abney Park|Aether Shanties|SIGNED
 *Abney Park|Lost Horizons|SIGNED
 *Ad Frank|The World's Best Ex-Boyfriend
-Alasdair Fraser and Natalie Haas|Abundance|SIGNED|CONCERT
-Alasdair Fraser and Natalie Haas|Fire and Grace
+*Alasdair Fraser and Natalie Haas|Abundance|SIGNED|CONCERT
+*Alasdair Fraser and Natalie Haas|Fire and Grace
 *Ad Frank|Your Secrets Are Mine Now|SIGNED|ART|SETLIST
 *Alia Lorae|The Mad and the Beautiful
 *Amanda Palmer|Theatre Is Evil
 *Ari and Mia|Land on Shore
 *Bent Knee|Shiny Eyed Babies
-Bent Knee|Land Animals|SIGNED|CONCERT
+*Bent Knee|Land Animals|SIGNED|CONCERT
 *Billie Holiday|Greatest Hits
 *Blind Guardian|Nightfall in Middle Earth|bootleg
 *Blind Guardian|The Forgotten Tales|bootleg
@@ -22,7 +22,7 @@ Bent Knee|Land Animals|SIGNED|CONCERT
 Cecile Corbel|Vagabonde
 *Christmas Strings and Harp
 *Christopher Tin|Calling All Dawns|SIGNED|MAIL
-CHVRCHES|Love is Dead|CASSETTE
+*CHVRCHES|Love is Dead|CASSETTE
 *Cirque Du Soleil|Alegria
 *Copal|Into the Shadow Garden
 *Corrientes|Corrientes en Espanol
@@ -73,7 +73,7 @@ CHVRCHES|Love is Dead|CASSETTE
 *Johnny Blazes and the Pretty Boys|Soul Vernacular|SIGNED
 *Kath Bloom|Thin Thin Line
 *Katie McNally|Flourish
-Kimiko Ishizaka|J.S. Bach - Die Kunst Der Fuge BWV 1080
+*Kimiko Ishizaka|J.S. Bach - Die Kunst Der Fuge BWV 1080
 *La La Land Original Motion Picture Soundtrack
 *Larkin Grimm|Live from Another Planet
 *Larry Moser and Mary Nagin|Sharing the Light|(Hammered Dulcimer and Fiddle)
@@ -88,7 +88,7 @@ Laura Cortese and the Dance Cards|California Calling|SIGNED
 *Michael J. Epstein Memorial Library|The Art Music Exchange
 *Michael Zuko|Miles from a Kiss
 *Miles Dethmuffen|Clutter
-Molly Tuttle|Rise
+*Molly Tuttle|Rise
 *Molly Zenobia|November Antique|SIGNED|ART
 *Molly Zenobia|Wind Chains|ART
 *Myriam Phiro|My Reverie
@@ -116,7 +116,7 @@ Molly Tuttle|Rise
 *Save Ferris|Modified
 *Supercute|Supercute
 *The Chupacabra Cabaret|The Chupacabra Cabaret
-The Goodbye Girls|Snowy Side of the Mountain|SIGNED|CONCERT
+*The Goodbye Girls|Snowy Side of the Mountain|SIGNED|CONCERT
 *The Decemberists|Billy Liar
 *The Ladles|The Ladles
 *The Rhythm Future Quartet|The Rhythm Future Quartet|SIGNED
@@ -135,7 +135,7 @@ The Goodbye Girls|Snowy Side of the Mountain|SIGNED|CONCERT
 *Voltaire|To the Bottom of the Sea|SIGNED
 *Walter Sickert and the Army of Broken Toys|28 Seeds
 *Walter Sickert and the Army of Broken Toys|Casualty Menagerie|SIGNED
-Walter Sickert and the Army of Broken Toys|Come Black Magic
+*Walter Sickert and the Army of Broken Toys|Come Black Magic
 *Walter Sickert and the Army of Broken Toys|Shockheaded Peter
 *Walter Sickert and the Army of Broken Toys|Steam Ship Killers
 *Wazozo|Newton Circus|SIGNED
