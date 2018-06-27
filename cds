@@ -19,7 +19,7 @@
 *Cecile Corbel|La Fiancee
 *Cecile Corbel|Roses Songbook Vol 4
 *Cecile Corbel|Songbook 1
-Cecile Corbel|Vagabonde
+*Cecile Corbel|Vagabonde
 *Christmas Strings and Harp
 *Christopher Tin|Calling All Dawns|SIGNED|MAIL
 *Chvrches|Love Is Dead|CASSETTE
