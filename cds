@@ -1,6 +1,8 @@
 *Abney Park|Aether Shanties|SIGNED
 *Abney Park|Lost Horizons|SIGNED
 *Ad Frank|The World's Best Ex-Boyfriend
+Alasdair Fraser and Natalie Haas|Abundance|SIGNED|CONCERT
+Alasdair Fraser and Natalie Haas|Fire and Grace
 *Ad Frank|Your Secrets Are Mine Now|SIGNED|ART|SETLIST
 *Alia Lorae|The Mad and the Beautiful
 *Amanda Palmer|Theatre Is Evil
@@ -85,6 +87,7 @@ Laura Cortese and the Dance Cards|California Calling|SIGNED
 *Michael J. Epstein Memorial Library|The Art Music Exchange
 *Michael Zuko|Miles from a Kiss
 *Miles Dethmuffen|Clutter
+Molly Tuttle|Rise
 *Molly Zenobia|November Antique|SIGNED|ART
 *Molly Zenobia|Wind Chains|ART
 *Myriam Phiro|My Reverie
@@ -112,6 +115,7 @@ Laura Cortese and the Dance Cards|California Calling|SIGNED
 *Save Ferris|Modified
 *Supercute|Supercute
 *The Chupacabra Cabaret|The Chupacabra Cabaret
+The Goodbye Girls|Snowy Side of the Mountain|SIGNED|CONCERT
 *The Decemberists|Billy Liar
 *The Ladles|The Ladles
 *The Rhythm Future Quartet|The Rhythm Future Quartet|SIGNED
