@@ -29,7 +29,7 @@
 *Craig Duncan|On Christmas Eve|dulcimer
 *Crystal Bright and the Silver Hands|Crystal Bright and the Silver Hands
 *Crystal Bright and the Silver Hands|Muses and Bones
-Crystal Bright and the Silver Hands|Staring at the Sun|SIGNED
+*Crystal Bright and the Silver Hands|Staring at the Sun|SIGNED
 *Crystal Bright and the Silver Hands|The Absolute Elsewhere|SIGNED
 *Dark Dark Dark|The Snow Magic
 *Dark Dark Dark|Wild Go
