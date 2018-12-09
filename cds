@@ -33,6 +33,7 @@
 *Crystal Bright and the Silver Hands|The Absolute Elsewhere|SIGNED
 *Dark Dark Dark|The Snow Magic
 *Dark Dark Dark|Wild Go
+Devotchka|This Night Falls Forever
 *Dethklok|Dethalbum II
 *Do Not Forsake Me Oh My Darling|The New Number 2
 *Eco Del Sur|Latin American Roots
@@ -115,6 +116,7 @@
 *Sarah Rabdau|Free as Thieves
 *Sarah Rabdau|Sarah Rabdau and Self-Employed Assassins|SIGNED
 *Save Ferris|Modified
+Shilpa Ray|Teenage and Torture|SIGNED
 *Supercute|Supercute
 *The Chupacabra Cabaret|The Chupacabra Cabaret
 *The Goodbye Girls|Snowy Side of the Mountain|SIGNED|CONCERT
