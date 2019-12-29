@@ -120,7 +120,7 @@
 *Save Ferris|Modified
 *Shilpa Ray|Teenage and Torture|SIGNED
 *Supercute|Supercute
-Susan Egan|Winter Tracks|PRESIGNED
+*Susan Egan|Winter Tracks|PRESIGNED
 *The Chupacabra Cabaret|The Chupacabra Cabaret
 *The Goodbye Girls|Snowy Side of the Mountain|SIGNED|CONCERT
 *The Decemberists|Billy Liar
@@ -150,7 +150,7 @@ Susan Egan|Winter Tracks|PRESIGNED
 
 
 
-Beauty and the Beast|Original Broadway Cast Recording|PRESIGNED
+*Beauty and the Beast|Original Broadway Cast Recording|PRESIGNED
 *Brave||Original Score
 *Fun Home||A New Broadway Musical
 *Hedwig and the Angry Inch - Original Off-Broadway Cast
