@@ -6,11 +6,12 @@ my $usage = "Usage:
   $0 -h|--help
     print this message
 
-  $0 [OPTS]
+  $0 [OPTS] [REGEX]
     query klomp-db for each line in 'cds'
     ensure at least one FLAC file, with an acoustid, is found for each cd
 
     -look at all lines in './cds'
+    -if REGEX is given, skip all lines that do not match REGEX
     -parse each line as one of these formats:
       *<ALBUM>                       (one section)
       *<ARTIST>|<ALBUM>              (two sections, none empty)
@@ -48,13 +49,23 @@ sub main(@){
     }
   }
 
-  if(@_ > 0){
+  my $regex;
+  if(@_ == 0){
+    $regex = undef;
+  }elsif(@_ == 1){
+    $regex = $_[0];
+  }else{
     die $usage;
   }
 
   for my $cd(`cat cds`){
     chomp $cd;
     next if $cd =~ /^\s*$/;
+
+    if(defined $regex and $cd !~ /$regex/i){
+      print "  SKIPPED: $cd\n";
+      next;
+    }
 
     if($cd =~ /^[^*]/){
       die "cd not marked as raptured: $cd\n";
