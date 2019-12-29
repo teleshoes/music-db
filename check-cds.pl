@@ -2,7 +2,42 @@
 use strict;
 use warnings;
 
+my $usage = "Usage:
+  $0 -h|--help
+    print this message
+
+  $0
+    query klomp-db for each line in 'cds'
+    ensure at least one FLAC file, with an acoustid, is found for each cd
+
+    -look at all lines in './cds'
+    -parse each line as one of these formats:
+      *<ALBUM>                       (one section)
+      *<ARTIST>|<ALBUM>              (two sections, none empty)
+      *<ARTIST>|<ALBUM>|<EXTRAS>     (three or more sections, none empty)
+      *<ALBUM>||<EXTRAS>             (three or more sections, second is empty)
+    -if line does not match one of the above formats, FAIL
+    -if line does not start with '*', FAIL
+    -split <ARTIST> (if present) into words (\\w+) and prepand '\@a'
+    -split <ALBUM> into words (\\w+) and prepend '\@l'
+    -run klomp-db -s '<ARTIST_WORDS> <ALBUM_WORDS'
+      e.g.: klomp-db -s '\@aEdith \@aPiaf \@lLa \@lVie \@len \@lRose'
+    -ignore all non-flac songs returned
+    -if no songs returned, FAIL
+    -check each song returned for an acoustid
+    -if no acoustids returned, FAIL
+";
+
 sub main(@){
+  if(@_ == 1 and $_[0] =~ /^(-h|--help)$/){
+    print $usage;
+    exit 0;
+  }
+
+  if(@_ > 0){
+    die $usage;
+  }
+
   for my $cd(`cat cds`){
     chomp $cd;
     next if $cd =~ /^\s*$/;
