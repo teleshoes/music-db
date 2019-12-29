@@ -150,7 +150,7 @@
 
 
 
-*Beauty and the Beast|Original Broadway Cast Recording|PRESIGNED
+*Beauty and the Beast - Broadway||Original Broadway Cast Recording|PRESIGNED
 *Brave||Original Score
 *Fun Home||A New Broadway Musical
 *Hedwig and the Angry Inch - Original Off-Broadway Cast
