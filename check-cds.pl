@@ -6,7 +6,7 @@ my $usage = "Usage:
   $0 -h|--help
     print this message
 
-  $0
+  $0 [OPTS]
     query klomp-db for each line in 'cds'
     ensure at least one FLAC file, with an acoustid, is found for each cd
 
@@ -26,12 +26,26 @@ my $usage = "Usage:
     -if no songs returned, FAIL
     -check each song returned for an acoustid
     -if no acoustids returned, FAIL
+
+  OPTS
+    -v | --verbose
+      print the klomp-db lookup query
 ";
 
 sub main(@){
   if(@_ == 1 and $_[0] =~ /^(-h|--help)$/){
     print $usage;
     exit 0;
+  }
+
+  my $verbose = 0;
+  while(@_ > 0 and $_[0] =~ /^-/){
+    my $opt = shift;
+    if($opt =~ /^(-v|--verbose)$/){
+      $verbose = 1;
+    }else{
+      die "$usage\nunknown opt: $opt\n";
+    }
   }
 
   if(@_ > 0){
@@ -65,8 +79,10 @@ sub main(@){
       @queryWords = (@queryWords, map {"\@a$_"} @artistWords);
       @queryWords = (@queryWords, map {"\@l$_"} @albumWords);
 
-      open CMD, "-|", "klomp-db", "-s", "@queryWords"
-        or die "could not run klomp-db\n";
+      my @cmd = ("klomp-db", "-s", "@queryWords");
+      print "@cmd\n" if $verbose;
+      open CMD, "-|", @cmd
+        or die "could not run @cmd\n";
       my @songs = <CMD>;
       close CMD;
       chomp foreach @songs;
