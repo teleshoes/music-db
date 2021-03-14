@@ -66,6 +66,7 @@
 *Hellblinki|These Bubbles Come From Ants|SIGNED
 *Here We Just Dream|Here We Just Dream|EP#1
 *Here We Just Dream|Wind with You
+Hisaishi|Ghibli Best Stories
 *Horloge Grand-Pere|Du temps pour emporter
 *Jaggery|For the Record|SIGNED(mailed, personalized)
 *Jaggery|Private Violence
@@ -118,6 +119,7 @@
 *Sarah Rabdau|Free as Thieves
 *Sarah Rabdau|Sarah Rabdau and Self-Employed Assassins|SIGNED
 *Save Ferris|Modified
+Schooltree|Heterotopia
 *Shilpa Ray|Teenage and Torture|SIGNED
 *Supercute|Supercute
 *Susan Egan|Winter Tracks|PRESIGNED
@@ -150,8 +152,10 @@
 
 
 
+39th Annual Sea Music Festival at Mystic Seaport Museum
 *Beauty and the Beast - Broadway||Original Broadway Cast Recording|PRESIGNED
 *Brave||Original Score
+Final Fantasy VII REMAKE Mini Soundtrack
 *Fun Home||A New Broadway Musical
 *Hedwig and the Angry Inch - Original Off-Broadway Cast
 *Highlights from The Phantom of the Opera||Original Cast Recording
