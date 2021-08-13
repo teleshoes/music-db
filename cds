@@ -18,7 +18,7 @@
 *Caitlin Marie Bell|Blood and the Water
 *Cecile Corbel|Enfant du Vent
 *Cecile Corbel|La Fiancee
-Cecile Corbel|Notes
+*Cecile Corbel|Notes
 *Cecile Corbel|Roses Songbook Vol 4
 *Cecile Corbel|Songbook 1
 *Cecile Corbel|Vagabonde
