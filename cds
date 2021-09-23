@@ -128,7 +128,7 @@
 *The Goodbye Girls|Snowy Side of the Mountain|SIGNED|CONCERT
 *The Decemberists|Billy Liar
 *The Ladles|The Ladles
-The Long Shots|The Long Shots
+*The Long Shots|The Long Shots
 *The Rhythm Future Quartet|The Rhythm Future Quartet|SIGNED
 *The World Inferno Friendship Society|Red-Eyed Soul
 *The Zombies|Breathe Out, Breathe In|SIGNED(at show, not in front of me)
