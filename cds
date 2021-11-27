@@ -16,7 +16,7 @@
 *Bottom of the Well|Bottom of the Well
 *Box Five|Leave the Earth Behind
 *Caitlin Marie Bell|Blood and the Water
-Cecile Corbel|Arrietty|SIGNED|MAIL
+*Cecile Corbel|Arrietty|SIGNED|MAIL
 *Cecile Corbel|Enfant du Vent
 *Cecile Corbel|La Fiancee
 *Cecile Corbel|Notes
