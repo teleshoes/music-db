@@ -63,6 +63,7 @@ Ellen Foley|Fighting Words|SIGNED
 *Gipsy Kings|Savor Flamenco
 *Goli|Goli|SIGNED|ART
 *Goli|this is not a love song|SIGNED
+Gunhild Carling|Good Evening Cats|SIGNED
 *Gypsy Nomads|Happy Madness|SIGNED
 *Handel|Handel Messiah Highlights CBS Great Performances Volume 89
 *Hellblinki|Oratory|SIGNED
