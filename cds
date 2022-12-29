@@ -43,6 +43,7 @@
 *Edith Piaf|La Vie en Rose
 *Eli August & The Abandoned Buildings|A Heartache Suite
 *Eli August & The Abandoned Buildings|To the Weak and the Weary
+Ellen Foley|Fighting Words|SIGNED
 *Ember Schrag|A Cruel Cruel Woman
 *Emperor Norton's Stationary Marching Band|Disco Dischordia
 *Emperor Norton's Stationary Marching Band|Reign of Revelry
