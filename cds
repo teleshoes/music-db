@@ -43,7 +43,7 @@
 *Edith Piaf|La Vie en Rose
 *Eli August & The Abandoned Buildings|A Heartache Suite
 *Eli August & The Abandoned Buildings|To the Weak and the Weary
-Ellen Foley|Fighting Words|SIGNED
+*Ellen Foley|Fighting Words|SIGNED
 *Ember Schrag|A Cruel Cruel Woman
 *Emperor Norton's Stationary Marching Band|Disco Dischordia
 *Emperor Norton's Stationary Marching Band|Reign of Revelry
@@ -63,7 +63,7 @@ Ellen Foley|Fighting Words|SIGNED
 *Gipsy Kings|Savor Flamenco
 *Goli|Goli|SIGNED|ART
 *Goli|this is not a love song|SIGNED
-Gunhild Carling|Good Evening Cats|SIGNED
+*Gunhild Carling|Good Evening Cats|SIGNED
 *Gypsy Nomads|Happy Madness|SIGNED
 *Handel|Handel Messiah Highlights CBS Great Performances Volume 89
 *Hellblinki|Oratory|SIGNED
